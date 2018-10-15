@@ -1,0 +1,18 @@
+PODS:
+  - KDCircularProgress (1.5.2)
+  - PieCharts (0.0.6)
+  - Repeat (0.5.1)
+
+DEPENDENCIES:
+  - KDCircularProgress
+  - PieCharts
+  - Repeat
+
+SPEC CHECKSUMS:
+  KDCircularProgress: 12f677b2deb02409ab48c6cae1898d146b8ad549
+  PieCharts: f4f866b3ed45dbeda355cc64664091024a9819ee
+  Repeat: 225484fc8401efbe839a0ea9061b41509d0de016
+
+PODFILE CHECKSUM: 8d57a5552d281aebf4c44eddf7ffa87cb4df3c47
+
+COCOAPODS: 1.4.0

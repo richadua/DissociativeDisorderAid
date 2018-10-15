@@ -1,0 +1,6 @@
+framework module Pods_DissociativeDisorderAid {
+  umbrella header "Pods-DissociativeDisorderAid-umbrella.h"
+
+  export *
+  module * { export * }
+}
